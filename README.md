@@ -3,7 +3,7 @@ Tool for transferring tables between Microsoft Access and Excel and clearing Acc
 
 WHAT IT DOES:
 
-Allows the seemless exporting of tables between Microsoft Access and Excel. 
+Allows the efficient exporting of tables between Microsoft Access and Excel. 
 
 HOW TO USE:
 
